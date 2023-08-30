@@ -1,0 +1,272 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="sheet-boundary"
+
+
+--sheet-boundary
+Content-Location: file:///C:/temp/book.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="unicode"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>CPV 2007_Indicadores_2023083014</x:Name>
+    <x:WorksheetSource HRef=3D"sheet1.htm"/>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>264</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9120</x:WindowHeight>
+  <x:WindowWidth>11715</x:WindowWidth>
+  <x:WindowTopX>240</x:WindowTopX>
+  <x:WindowTopY>90</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+</html>
+
+--sheet-boundary
+Content-Location: file:///C:/temp/sheet1.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="unicode"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<style>
+<!--table 
+br
+	{mso-data-placement:same-cell;}
+@page
+	{margin: 0.50in 0.50in 0.50in 0.50in;
+	}
+.style21
+	{color:blue;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:Hyperlink;
+	mso-style-id:8;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	 white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-weight:700;
+	color:#ffffff;
+	text-align:left;
+	vertical-align:middle;
+	background:#245d9f;
+	white-space:normal;
+	border-left:.5pt solid #c0c0c0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #c0c0c0;
+	}
+.xl28
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-weight:700;
+	color:#ffffff;
+	text-align:left;
+	vertical-align:middle;
+	background:#245d99;
+	white-space:normal;
+	border-left:.5pt solid #c0c0c0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #c0c0c0;
+	}
+.xl29
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-weight:700;
+	color:#ffffff;
+	text-align:left;
+	vertical-align:middle;
+	background:#013d83;
+	white-space:normal;
+	border-left:.5pt solid #c0c0c0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #c0c0c0;
+	}
+.xl30
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-weight:700;
+	color:#ffffff;
+	text-align:center;
+	vertical-align:middle;
+	background:#245d9f;
+	white-space:normal;
+	border-left:.5pt solid #c9d2e1;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #c9d2e1; border-style: hairline;
+	}
+.xl31
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-weight:700;
+	color:#ffffff;
+	text-align:center;
+	vertical-align:middle;
+	background:#245d9f;
+	white-space:normal;
+	border-left:.5pt solid #c9d2e1;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #c9d2e1; border-style: hairline;
+	}
+.xl32
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	color:#013d83;
+	text-align:left;
+	vertical-align:top;
+	background:#ecebe7;
+	white-space:normal;
+	border-left:.5pt solid #c9d2e1;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #c9d2e1; border-style: hairline;
+	}
+.xl33
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	color:#013d83;
+	text-align:left;
+	vertical-align:middle;
+	background:#ecebe7;
+	white-space:normal;
+	border-left:.5pt solid #c9d2e1;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #c9d2e1; border-style: hairline;
+	}
+.xl34
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	color:#5b5b59;
+	text-align:right;
+	vertical-align:middle;
+	border-left:none;
+	border-top:none;
+	border-right:.5pt solid #c9d2e1;
+	border-bottom:.5pt solid #c9d2e1; border-style: hairline;
+	mso-number-format:"General";
+	}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+    <x:WorksheetOptions>
+     <x:DoNotDisplayGridlines/>
+     <x:NoSummaryRowsBelowDetail/>
+    </x:WorksheetOptions>
+</xml><![endif]-->
+</head>
+<body link=3Dblue vlink=3Dpurple>
+<table x:str border=3D0 cellpadding=3D0 cellspacing=3D0>
+ <tr height=3D23 style=3D'height:22.5pt'>
+<td colspan=3D11 style=3D'font-family:tahoma;font-size:18.0pt'>CPV 2007_Indicadores_20230830142058879</td></tr>
+<tr style=3D'height:10.5pt'><td></td></tr>
+<tr>
+ <td rowspan=3D2 class=3Dxl29 style=3D'border-left:.5pt solid #808080;border-top:.5pt solid #808080;'>Pais</td>
+ <td rowspan=3D2 class=3Dxl29 style=3D'border-top:.5pt solid #808080;'>Tema</td>
+ <td rowspan=3D2 class=3Dxl29 style=3D'border-top:.5pt solid #808080;'>Sub Tema</td>
+ <td rowspan=3D2 class=3Dxl29 style=3D'border-top:.5pt solid #808080;'>Descripcion</td>
+ <td class=3Dxl27 style=3D'border-top:.5pt solid #808080;'>Clase</td>
+ <td class=3Dxl30 style=3D'border-top:.5pt solid #808080;'>Total</td>
+ <td class=3Dxl30 style=3D'border-top:.5pt solid #808080;'>Área Urbana</td>
+ <td class=3Dxl30 style=3D'border-top:.5pt solid #808080;'>Área Rural</td>
+ <td class=3Dxl30 style=3D'border-top:.5pt solid #808080;'>Sexo - Hombre</td>
+ <td class=3Dxl30 style=3D'border-top:.5pt solid #808080;border-right:.5pt solid #808080;'>Sexo - Mujer</td>
+</tr>
+<tr>
+ <td class=3Dxl28>Indicadores</td>
+ <td class=3Dxl31>Valor</td>
+ <td class=3Dxl31>Valor</td>
+ <td class=3Dxl31>Valor</td>
+ <td class=3Dxl31>Valor</td>
+ <td class=3Dxl31 style=3D'border-right:.5pt solid #808080;'>Valor</td>
+</tr>
+<tr>
+ <td class=3Dxl32 style=3D'border-left:.5pt solid #808080;border-bottom:.5pt solid #808080;'>Perú</td>
+ <td class=3Dxl33 style=3D'border-bottom:.5pt solid #808080;'>Social</td>
+ <td class=3Dxl33 style=3D'border-bottom:.5pt solid #808080;'>Identidad</td>
+ <td colspan=3D2 class=3Dxl33 style=3D'border-bottom:.5pt solid #808080;'>Porcentaje de personas que tienen partida de nacimiento y su lengua materna es un idioma nativo (quechua, aymara, ashaninka u otra lengua nativa)</td>
+ <td class=3Dxl34 style=3D'border-bottom:.5pt solid #808080;' x:num=3D"98.79">98.79</td>
+ <td class=3Dxl34 style=3D'border-bottom:.5pt solid #808080;' x:num=3D"99.32">99.32</td>
+ <td class=3Dxl34 style=3D'border-bottom:.5pt solid #808080;' x:num=3D"98.39">98.39</td>
+ <td class=3Dxl34 style=3D'border-bottom:.5pt solid #808080;' x:num=3D"99.21">99.21</td>
+ <td class=3Dxl34 style=3D'border-right:.5pt solid #808080;border-bottom:.5pt solid #808080;' x:num=3D"98.4">98.4</td>
+</tr>
+</table>
+</body>
+</html>
+
+--sheet-boundary--
